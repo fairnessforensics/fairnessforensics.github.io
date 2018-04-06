@@ -1,0 +1,12 @@
+section {
+  display: inline-block;
+  vertical-align:top;
+}
+
+.projects{
+  width: 60%;
+}
+
+.news{
+  width: 39%;
+}

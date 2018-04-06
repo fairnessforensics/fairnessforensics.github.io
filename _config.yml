@@ -1,1 +1,24 @@
-theme: jekyll-theme-cayman
+# Setup
+title:        Fairness Forensics
+tagline:      A collection of projects for interrogating fairness of algorithmic systems
+baseurl:      ""
+paginate:     1
+locale:       "en"
+
+# About/contact -should be made more elegant
+author1:
+  name:       Sarah M Brown
+  url:        http://sarahmbrown.org
+
+author2:
+  name:       Christan Grant
+  url:        http://www.christangrant.com/
+
+# Gems
+gems:
+  - jekyll-paginate
+
+collections:
+  projects:
+#Others
+markdown: kramdown
